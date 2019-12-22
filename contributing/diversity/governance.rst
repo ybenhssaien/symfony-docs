@@ -1,3 +1,8 @@
+.. spelling::
+
+    Fabien
+    Potencier
+
 Diversity Initiative Governance
 ===============================
 

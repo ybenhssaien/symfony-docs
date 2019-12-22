@@ -117,7 +117,7 @@ To access a page, you must now use the ``front.php`` script:
 
 .. tip::
 
-    Most web servers like Apache or nginx are able to rewrite the incoming URLs
+    Most web servers like Apache or NGINX are able to rewrite the incoming URLs
     and remove the front controller script so that your users will be able to
     type ``http://127.0.0.1:4321/hello?name=Fabien``, which looks much better.
 

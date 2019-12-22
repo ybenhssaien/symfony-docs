@@ -1,3 +1,7 @@
+.. spelling::
+
+    Brasseur
+
 Speaker Mentoring
 =================
 

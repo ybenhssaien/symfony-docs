@@ -1,3 +1,8 @@
+.. spelling::
+
+    Fabien
+    Potencier
+
 .. _symfony2-license:
 
 Symfony Code License

@@ -1,3 +1,14 @@
+.. spelling::
+
+    emilie
+    lorenzo
+    symfony
+    michelle
+    liip
+    tobias
+    nyholm
+    gmail
+
 CARE Team
 =========
 
