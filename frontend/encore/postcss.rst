@@ -1,3 +1,8 @@
+.. spelling::
+
+    postcss
+    browserslist
+
 PostCSS and autoprefixing (postcss-loader)
 ==========================================
 
@@ -56,8 +61,8 @@ You can also pass options to the `postcss-loader`_ by passing a callback:
 
 .. _browserslist_package_config:
 
-Adding browserslist to package.json
------------------------------------
+Adding browserslist to ``package.json``
+---------------------------------------
 
 The ``autoprefixer`` (and many other tools) need to know what browsers you want to
 support. The best-practice is to configure this directly in your ``package.json``

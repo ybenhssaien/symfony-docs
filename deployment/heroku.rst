@@ -1,6 +1,14 @@
 .. index::
    single: Deployment; Deploying to Heroku Cloud
 
+.. spelling::
+
+    Logplex
+    Procfile
+    Toolbelt
+    buildpack
+    buildpacks
+
 Deploying to Heroku Cloud
 =========================
 
@@ -98,7 +106,7 @@ directory of the application and add just the following content:
 
 .. note::
 
-    If you prefer to use Nginx, which is also available on Heroku, you can create
+    If you prefer to use NGINX, which is also available on Heroku, you can create
     a configuration file for it and point to it from your Procfile as described
     in the `Heroku documentation`_:
 

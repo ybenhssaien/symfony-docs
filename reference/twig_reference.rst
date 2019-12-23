@@ -85,7 +85,7 @@ falls back to the behavior of `render`_ otherwise.
 
     The ``render_esi()`` function is an example of the shortcut functions
     of ``render``. It automatically sets the strategy based on what's given
-    in the function name, e.g. ``render_hinclude()`` will use the HInclude.js
+    in the function name, e.g. ``render_hinclude()`` will use the HInclude
     strategy. This works for all ``render_*()`` functions.
 
 ``controller``

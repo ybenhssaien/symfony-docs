@@ -1,6 +1,10 @@
 .. index::
    single: Assetic; Image optimization
 
+.. spelling::
+
+    Jpegoptim
+
 How to Use Assetic for Image Optimization with Twig Functions
 =============================================================
 

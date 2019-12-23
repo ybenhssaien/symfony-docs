@@ -1,6 +1,10 @@
 .. index::
    single: Doctrine
 
+.. spelling::
+
+    Doxygen
+
 Databases and the Doctrine ORM
 ==============================
 

@@ -1,6 +1,10 @@
 .. index::
    single: Cache
 
+.. spelling::
+
+    Tomayko
+
 HTTP Cache
 ==========
 

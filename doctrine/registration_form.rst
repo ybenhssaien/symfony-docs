@@ -3,6 +3,10 @@
    single: Form; Simple Registration Form
    single: Security; Simple Registration Form
 
+.. spelling::
+
+    plaintext
+
 How to Implement a Simple Registration Form
 ===========================================
 

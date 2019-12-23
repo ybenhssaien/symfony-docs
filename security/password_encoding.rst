@@ -1,6 +1,10 @@
 .. index::
     single: Security; Encoding Passwords
 
+.. spelling::
+
+    plaintext
+
 How to Manually Encode a Password
 =================================
 

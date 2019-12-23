@@ -52,7 +52,7 @@ configuration:
           to: /home/vagrant/projects/symfony_demo/web
           type: symfony
 
-The ``type`` option tells Homestead to use the Symfony nginx configuration.
+The ``type`` option tells Homestead to use the Symfony NGINX configuration.
 
 At last, edit the hosts file on your local machine to map ``symfony-demo.test``
 to ``192.168.10.10`` (which is the IP used by Homestead)::

@@ -1,7 +1,7 @@
 Symfony Local Web Server
 ========================
 
-You can run Symfony applications with any web server (Apache, nginx, the
+You can run Symfony applications with any web server (Apache, NGINX, the
 internal PHP web server, etc.). However, Symfony provides its own web server to
 make you more productive while developing your applications.
 
@@ -172,7 +172,7 @@ local IP. However, sometimes it is preferable to associate a domain name to them
 * It's more convenient when you work continuously on the same project because
   port numbers can change but domains don't;
 * The behavior of some applications depend on their domains/subdomains;
-* To have stable endpoints, such as the local redirection URL for Oauth2.
+* To have stable endpoints, such as the local redirection URL for OAuth2.
 
 Setting up the Local Proxy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -304,7 +304,7 @@ RabbitMQ      5672      ``RABBITMQ_`` (set user and pass via Docker ``RABBITMQ_D
 Elasticsearch 9200      ``ELASTICSEARCH_``
 MongoDB       27017     ``MONGODB_`` (set the database via a Docker ``MONGO_DATABASE`` env var)
 Kafka         9092      ``KAFKA_``
-Mailcatcher   1025/1080 ``MAILER_``
+MailCatcher   1025/1080 ``MAILER_``
               or 25/80
 Blackfire     8707      ``BLACKFIRE_``
 ============= ========= ======================

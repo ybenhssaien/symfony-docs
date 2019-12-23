@@ -1,6 +1,10 @@
 .. index::
    single: Symfony Fundamentals
 
+.. spelling::
+
+    xkcd
+
 .. _symfony2-and-http-fundamentals:
 
 Symfony and HTTP Fundamentals

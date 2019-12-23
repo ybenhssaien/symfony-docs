@@ -1,3 +1,7 @@
+.. spelling::
+
+    webpackJsonp
+
 FAQ and Common Issues
 =====================
 

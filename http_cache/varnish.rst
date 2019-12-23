@@ -1,6 +1,10 @@
 .. index::
     single: Cache; Varnish
 
+.. spelling::
+
+    Akamai
+
 How to Use Varnish to Speed up my Website
 =========================================
 

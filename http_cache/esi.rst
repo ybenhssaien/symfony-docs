@@ -2,6 +2,10 @@
     single: Cache; ESI
     single: ESI
 
+.. spelling::
+
+    Akamai
+
 .. _edge-side-includes:
 
 Working with Edge Side Includes

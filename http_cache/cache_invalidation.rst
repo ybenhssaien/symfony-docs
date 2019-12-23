@@ -1,6 +1,10 @@
 .. index::
    single: Cache; Invalidation
 
+.. spelling::
+
+    Karlton
+
 .. _http-cache-invalidation:
 
 Cache Invalidation

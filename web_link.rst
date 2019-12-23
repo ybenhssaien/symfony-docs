@@ -1,6 +1,12 @@
 .. index::
    single: Web Link
 
+.. spelling::
+
+    Kévin
+    Dunglas
+    Caddy
+
 Asset Preloading and Resource Hints with HTTP/2 and WebLink
 ===========================================================
 
@@ -18,7 +24,7 @@ with HTTP 1.x:
 
 Something important to consider is that all these HTTP/2 features require a
 secure HTTPS connection, even when working on your local machine. The main web
-servers (Apache, Nginx, Caddy, etc.) support this, but you can also use the
+servers (Apache, NGINX, Caddy, etc.) support this, but you can also use the
 `Docker installer and runtime for Symfony`_ created by Kévin Dunglas, from the
 Symfony community.
 
