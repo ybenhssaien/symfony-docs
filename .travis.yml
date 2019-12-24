@@ -5,6 +5,10 @@ python: 2.7
 sudo: false
 cache:
     directories: [$HOME/.cache/pip]
+    
+addons:
+    apt:
+        packages: [enchant]
 
 install: pip install -r _build/.requirements.txt
 
